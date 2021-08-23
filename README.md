@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulMart101
 - 🌱 I’m a Senior at University of Houston Majoring in Computer Information Systems.
--👀  I’m interested in cyber security.
+- 👀  I’m interested in cyber security.
 - 💞️ I’m looking forward in collaborating with my new classmates on future assignment/projects for this course.
 - 📫 You can reach me via message using this platform.
 
